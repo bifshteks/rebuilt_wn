@@ -26,8 +26,8 @@ SECRET_KEY = 'xd&_jh9&bvh=g00ae$fr$&3_%kom#w^xhmrc6e*+rtxgfmo2)y'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '127.0.0.1',
-    'localhost'
+    'whitenight.info',
+    '188.226.156.159',
 ]
 
 
