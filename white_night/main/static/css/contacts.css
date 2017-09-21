@@ -13,6 +13,11 @@
 	font-size: 17px;
 }
 
+.content-text {
+	padding: 30px;
+	font-size: medium;
+}
+
 ul {
 	margin-top: 2% !important;
 }
